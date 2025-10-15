@@ -1,3 +1,2 @@
-![image alt](https://github.com/koirinsdiary/koirinsdiary/blob/1281307c2c46139680734111a76e0bae1982f5f8/76371ff2bed49f68eb6f8114ea5bc8b9.jpg)
+![image alt](https://github.com/koirinsdiary/koirinsdiary/blob/012b8c1144e4016a10691d9285f30f92cbc4e6d8/image.png)
 # ---------------------------------------------------------
-
