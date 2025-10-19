@@ -1,5 +1,4 @@
-![image alt](https://github.com/koirinsdiary/koirinsdiary/blob/012b8c1144e4016a10691d9285f30f92cbc4e6d8/image.png)
-# ---------------------------------------------------------------
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤI dont know how you guys do those cool image deco stuff
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤthis is all I can do 💔ㅤㅤ
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image alt](https://github.com/koirinsdiary/koirinsdiary/blob/0e5202941876d9a323d93e8486ef5cc559d3b0ba/image.png)
