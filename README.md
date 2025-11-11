@@ -16,7 +16,7 @@
 <img src="https://github.com/koirinsdiary/koirinsdiary/blob/1b8d4619651a3bf02867c6d229aece7430b518f8/image.png" align="left" width="%50" height="%70"></a>
 <sub> 
 
-  # ${\textsf{\color{#17b254}SHORT INFO : }}$
+  # ${\textsf{\color{#17b254}ABOUT ME : }}$
   </div>
   
   <div align="center">
