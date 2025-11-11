@@ -17,26 +17,29 @@
 </div>
 <div align="center">
 
-  # ${\textsf{\color{#17b254}ABOUT ME : }}$
+  # ${\textsf{\color{#17b254}FOR REAL! ✦︎ : }}$
   </div>
   
   <div align="center">
   
 
-test? test
+${\textsf{\color{#d42a2a}I loveee red}}$ 
 <br> 
 
-test 
+${\textsf{\color{#ff9c17}Semi-active in pt, I respond though!}}$ 
 <br>
 
-test.....???
+${\textsf{\color{#14d05e}Nicknames are the best ◝(ᵔᗜᵔ)◜}}$ 
 <br>
 
-test
+${\textsf{\color{#ff9c17}C+H encouraged! Feel free to interact}}$ 
 <br>
 
-test test test
+${\textsf{\color{#14d05e}I respond depending on the way you respond to me}}$ 
 <br> 
 
-test?
+${\textsf{\color{#ff9c17}I'm totally pro at sudoku }}$ 
+<br>
+
+${\textsf{\color{#14d05e}I love my friends and love making friends! (๑ᵔ⤙ᵔ๑) }}$ 
 <br>
