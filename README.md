@@ -11,3 +11,30 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A63D&center=true&width=435&lines=haii+big+wip+!+%EA%89%82(%CB%B5%CB%83+%E1%97%9C+%CB%82%CB%B5);sign+my+ata+!)](https://git.io/typing-svg)
+</div>
+
+<img src="https://github.com/koirinsdiary/koirinsdiary/blob/1b8d4619651a3bf02867c6d229aece7430b518f8/image.png" align="left" width="%50" height="%70"></a>
+<sub> 
+
+  # ${\textsf{\color{#17b254}SHORT INFO : }}$
+  </div>
+  
+  <div align="center">
+
+test? test
+<br> 
+
+test 
+<br>
+
+test.....???
+<br>
+
+test
+<br>
+
+test test test
+<br> 
+
+test?
+<br>
