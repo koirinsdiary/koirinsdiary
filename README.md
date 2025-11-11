@@ -14,12 +14,14 @@
 </div>
 
 <img src="https://github.com/koirinsdiary/koirinsdiary/blob/1b8d4619651a3bf02867c6d229aece7430b518f8/image.png" align="left" width="%540" height="%50"></a>
-<sub> 
+</div>
+<div align="center">
 
   # ${\textsf{\color{#17b254}ABOUT ME : }}$
   </div>
   
   <div align="center">
+  
 
 test? test
 <br> 
