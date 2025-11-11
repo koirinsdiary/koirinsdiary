@@ -43,3 +43,27 @@ ${\textsf{\color{#ff9c17}I'm totally pro at sudoku }}$
 
 ${\textsf{\color{#14d05e}I love my friends and love making friends! (๑ᵔ⤙ᵔ๑) }}$ 
 <br>
+
+${\textsf{\color{#ff9c17}I think I like yotsuba }}$ 
+<br>
+
+${\textsf{\color{#14d05e}Always above the docks and in mafias from PONY TOWN }}$ 
+<br>
+
+${\textsf{\color{#ff9c17}He / any | | genderfluid/pansexual }}$ 
+<br>
+
+${\textsf{\color{#14d05e}from ASIA ! }}$ 
+<br>
+
+
+
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7A63D&center=true&width=435&lines=%E2%9C%A6+--+OTSUKARE+SUMMER+BY+HALCALI;%E2%9C%A6+--+MRS+MAGIC+BY+STRAWBERRY+GUY;%E2%9C%A6+--+MY+KIND+OF+WOMAN+BY+MAC+DEMARCO;%E2%9C%A6+--+DEALER+BY+LANA+DEL+RAY;%E2%9C%A6+--+FOR+HER+BY+WHATSAHEART;%E2%9C%A6+--+JAPAN+BY+YOT+CLUB;%E2%9C%A6+--+K.+BY+CIGARETTES+AFTER+SX;%E2%9C%A6+--+SEASONS+IN+THE+SUN+BY+BLACK+BOX+;%E2%9C%A6+--+SONNE+BY+RAMMSTEIN;%E2%9C%A6+--+HASS+UND+LIEBE+BY+MISS+CONSTRUCTION)](https://git.io/typing-svg)
+
+</div>
+
+    
+
