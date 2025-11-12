@@ -65,5 +65,47 @@ ${\textsf{\color{#14d05e}from ASIA ! }}$
 
 </div>
 
+
+
+
+
+
+
+<img src="https://github.com/koirinsdiary/koirinsdiary/blob/d85fe0dbd05a8b096ae62cb491ae01b244b4d20f/image.png" align="right" width="%50" height="%70"></a>
+
+  # ${\textsf{\color{#17b254}UMM.. NO? ✦︎ : }}$
+  </div>
+  
+  <div align="center">
+   
+
+${\textsf{\color{#ff9c17}Dark/Proshippers (O-O)!}}$ 
+<br>
+
+${\textsf{\color{#14d05e}Getting covered in pony town constantly.}}$ 
+<br>
+
+${\textsf{\color{#ff9c17}Relationships below AND above 13 ((I don't do those ( ` ᴖ ´ ) }}$ 
+<br>
+
+${\textsf{\color{#14d05e}Racists, Pedos, etc}}$ 
+<br> 
+
+${\textsf{\color{#ff9c17}I dont like worms}}$ 
+<br>
+
+${\textsf{\color{#14d05e}Clankers}}$ 
+<br>
+
+${\textsf{\color{#ff9c17}ANYTHING THAT DISPLEASES ME}}$ 
+<br>
+
+${\textsf{\color{#14d05e}NSFW JOKES. Please dont}}$ 
+<br>
+
+${\textsf{\color{#ff9c17}BASIC DNI}}$ 
+<br>
+
+
     
 
