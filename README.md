@@ -94,7 +94,7 @@ ${\textsf{\color{#14d05e}Racists, Pedos, etc}}$
 ${\textsf{\color{#ff9c17}I dont like worms}}$ 
 <br>
 
-${\textsf{\color{#14d05e}Clankers}}$ 
+${\textsf{\color{#14d05e}I do NOT LIKE GETTING COVERED}}$ 
 <br>
 
 ${\textsf{\color{#ff9c17}ANYTHING THAT DISPLEASES ME}}$ 
