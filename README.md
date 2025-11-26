@@ -9,6 +9,8 @@
 
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=koirinsdiary&label=Yotsuba's+friends&style=plastic&color=yellow)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A63D&center=true&width=435&lines=haii+big+wip+!+%EA%89%82(%CB%B5%CB%83+%E1%97%9C+%CB%82%CB%B5);sign+my+ata+!)](https://git.io/typing-svg)
 </div>
