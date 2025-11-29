@@ -109,9 +109,16 @@ ${\textsf{\color{#14d05e}NSFW JOKES. Please dont}}$
 ${\textsf{\color{#ff9c17}BASIC DNI}}$ 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
 <div align="center">
 
-# ${\textsf{\color{#ff9c17}── .✦ㅤㅤㅤYOTSUBA KOIWAI [YK]ㅤTOO LITTLE TOO LATEㅤ:ㅤ ˵˃ ᗜ ˂˵ ㅤˎˊ˗}}$
+
+# ${\textsf{\color{#ff9c17}── .✦ㅤㅤㅤTO LITTLE, TOO LATE BY LAUFEYㅤ:ㅤ ˵˃ ᗜ ˂˵ ㅤˎˊ˗}}$
 
 
 <div align="center">
