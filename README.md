@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=koirinsdiary&label=Yotsuba's+friends&style=plastic&color=yellow)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A63D&center=true&width=435&lines=haii+big+wip+!+%EA%89%82(%CB%B5%CB%83+%E1%97%9C+%CB%82%CB%B5);sign+my+ata+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4997&pause=990&color=D49436&center=true&width=435&lines=(%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6);(%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6);(+%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5+);(%E0%B9%91%E1%B5%94%E2%A4%99%E1%B5%94%E0%B9%91);%EA%89%82(%CB%B5%CB%83+%E1%97%9C+%CB%82%CB%B5))](https://git.io/typing-svg)
 </div>
 
 <img src="https://github.com/koirinsdiary/koirinsdiary/blob/c7529f83344494291697d8155103c3aaad67c6f8/image.png" align="left" width="%540" height="%50"></a>
@@ -58,8 +58,9 @@ ${\textsf{\color{#ff9c17}He / any | | genderfluid/pansexual }}$
 ${\textsf{\color{#14d05e}from ASIA ! }}$ 
 <br>
 
+<br>
 
-
+<br>
 
 <div align="center">
     
@@ -108,6 +109,16 @@ ${\textsf{\color{#14d05e}NSFW JOKES. Please dont}}$
 ${\textsf{\color{#ff9c17}BASIC DNI}}$ 
 <br>
 
+<div align="center">
+
+# ${\textsf{\color{#ff9c17}── .✦ㅤㅤㅤYOTSUBA KOIWAI [YK]ㅤTOO LITTLE TOO LATEㅤ:ㅤ ˵˃ ᗜ ˂˵ ㅤˎˊ˗}}$
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4997&pause=990&color=CF9035&center=true&width=435&lines=You+asked+me+how+I've+been;But+how+could+I+begin;To+tell+you+I+should've+chased+you;I+should+be+who+you're+engaged+to;Lost+my+fight+with+fate;A+tug-of-war+of+leave+and+stay;I+give+in%2C+I+abdicate;I+lay+my+sword+down+anyway;I'll+see+you+at+Heaven's+gate;'Cause+it's+too+little%2C+way+too+late)](https://git.io/typing-svg)
+
+![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/52332e47647e6e9c9423a475d751db1270ccd9a0/image.png)
 
     
 
