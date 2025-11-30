@@ -125,6 +125,12 @@ ${\textsf{\color{#ff9c17}BASIC DNI}}$
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4997&pause=990&color=CF9035&center=true&width=435&lines=You+asked+me+how+I've+been;But+how+could+I+begin;To+tell+you+I+should've+chased+you;I+should+be+who+you're+engaged+to;Lost+my+fight+with+fate;A+tug-of-war+of+leave+and+stay;I+give+in%2C+I+abdicate;I+lay+my+sword+down+anyway;I'll+see+you+at+Heaven's+gate;'Cause+it's+too+little%2C+way+too+late)](https://git.io/typing-svg)
 
+${\textsf{\color{#ff9c17}I own pony town mafia called VLDC ( VEIL OF DECEPTION ) masquerade themed mafia}}$ 
+
+${\textsf{\color{#14d05e}I like nicknames. I'm mostly being called as 'koi', often 'rin'}}$ 
+
+${\textsf{\color{#ff9c17}most of my friends think I like koifishes but I like orcas too! Koifishes are in my second tier list}}$ 
+
 ![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/52332e47647e6e9c9423a475d751db1270ccd9a0/image.png)
 
     
