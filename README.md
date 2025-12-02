@@ -131,6 +131,8 @@ ${\textsf{\color{#14d05e}I like nicknames. I'm mostly being called as 'koi', oft
 
 ${\textsf{\color{#ff9c17}most of my friends think I like koifishes but I like orcas too! Koifishes are in my second tier list}}$ 
 
+${\textsf{\color{#14d05e}I only follow those who follow me, yes, though for those spam follower accounts I only follow the MAIN accounts in their profile}}$ 
+
 ![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/52332e47647e6e9c9423a475d751db1270ccd9a0/image.png)
 
     
