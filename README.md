@@ -30,3 +30,20 @@
 
   ${\textsf{\color{#c02509}sign my ata}}$ 
 <br> 
+
+  <img src="https://github.com/koirinsdiary/koirinsdiary/blob/65c447d54792775e5fc0578ef959566d3a727902/koifish2.png" align="right" width="%40" height="500"></a>
+</div>
+<div align="center">
+
+
+  ${\textsf{\color{#c02509}I own VLDC (VEIL OF DECEPTION) masquerade themed mafia}}$ 
+<br> 
+
+  ${\textsf{\color{#e9730f}i like nicknames}}$ 
+<br> 
+
+  ${\textsf{\color{#c02509}I like yotsuba, koyo, koifish, orcas}}$ 
+<br> 
+
+  ${\textsf{\color{#e9730f}this is still a wip}}$ 
+<br> 
