@@ -62,3 +62,11 @@
 
   ${\textsf{\color{#e9730f}Ok bye}}$ 
 <br> 
+
+
+
+
+
+
+  <img src="https://github.com/koirinsdiary/koirinsdiary/blob/80b54884c1cc147d4f942f6b028ad1e4a12e7c45/oroaorngee.jpg" align="center" width="999" height="500"></a>
+
