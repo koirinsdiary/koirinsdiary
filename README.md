@@ -9,7 +9,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=koirinsdiary&label=orcas&style=plastic&color=6f532b) ![imagine_alt](https://github.com/koirinsdiary/koirinsdiary/blob/80b54884c1cc147d4f942f6b028ad1e4a12e7c45/ebbacccd.gif)![](https://komarev.com/ghpvc/?username=koirinsdiary&label=koifishes&style=plastic&color=6f532b)
+![](https://komarev.com/ghpvc/?username=koirinsdiary&label=orcas&style=plastic&color=000000) ![imagine_alt](https://github.com/koirinsdiary/koirinsdiary/blob/80b54884c1cc147d4f942f6b028ad1e4a12e7c45/ebbacccd.gif)![](https://komarev.com/ghpvc/?username=koirinsdiary&label=koifishes&style=plastic&color=000000)
 
   <img src="https://github.com/koirinsdiary/koirinsdiary/blob/5d6b29c5c84f68e3e6d47b50278781d8a4e26b31/koifish1.png" align="left" width="%40" height="500"></a>
 </div>
@@ -46,4 +46,19 @@
 <br> 
 
   ${\textsf{\color{#e9730f}this is still a wip}}$ 
+<br> 
+
+<br> 
+
+<br> 
+
+<br> 
+
+
+</div>
+<div align="center">
+
+![imagine_alt](https://github.com/koirinsdiary/koirinsdiary/blob/e65762e75e559662bc43efdc2d7c212b177d13e5/3d7f882c.gif) 
+
+  ${\textsf{\color{#e9730f}Ok bye}}$ 
 <br> 
