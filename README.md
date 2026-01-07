@@ -48,6 +48,7 @@
   ${\textsf{\color{#e9730f}this is still a wip}}$ 
 <br> 
 
+  ${\textsf{\color{#c02509}C+H AND INT ENCOURAGED !!! }}$ 
 <br> 
 
 <br> 
