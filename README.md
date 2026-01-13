@@ -22,13 +22,16 @@
   
   <div align="center">
 
-  ${\textsf{\color{#c02509}idk what to put here}}$ 
+  ${\textsf{\color{#c02509}Info about me!}}$ 
 <br> 
 
   ${\textsf{\color{#e9730f}im koi}}$ 
 <br> 
 
-  ${\textsf{\color{#c02509}sign my ata}}$ 
+  ${\textsf{\color{#c02509}I like koifishes and orcas}}$ 
+<br> 
+
+  ${\textsf{\color{#e9730f}and umm}}$ 
 <br> 
 
   <img src="https://github.com/koirinsdiary/koirinsdiary/blob/65c447d54792775e5fc0578ef959566d3a727902/koifish2.png" align="right" width="%40" height="500"></a>
