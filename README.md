@@ -13,7 +13,7 @@
 <div align="center">
 
 # ${\textsf{\color{#c5fd68}KOIRIN   (˵ •̀ ᴗ - ˵ ) }}$
-  ${\textsf{\color{#5599d6}THANK YOU SO MCUHFOR 200 FOLLOWERS !!! }}$   ![image_alt](https://github.com/koirinsdiary/koirinsdiary/blob/7d6a5779c43997adbe160a05732ee0f564e0bdfd/tumblr_749b3b9f4774563ec2d71402422f8b0f_3a5444e2_75.gif) 
+  ${\textsf{\color{#5599d6}as much as I like getting followers, I think the spams are getting out of hand}}$   ![image_alt](https://github.com/koirinsdiary/koirinsdiary/blob/7d6a5779c43997adbe160a05732ee0f564e0bdfd/tumblr_749b3b9f4774563ec2d71402422f8b0f_3a5444e2_75.gif) 
 
 ![image_alt](https://github.com/koirinsdiary/fern/blob/ab45231944971c6767033110875fdcdd70489eec/Tumblr-l-790561557386599.gif)![image_alt](https://github.com/koirinsdiary/fern/blob/97edb29067c8129ce7c6d0426f4aced7e2e1e38b/tumblr-26f9df00bf0ca6e2c195575d8863d65a-a1600b1b-100.gif)![image_alt](https://github.com/koirinsdiary/fern/blob/ab45231944971c6767033110875fdcdd70489eec/Tumblr-l-330707806500979.gif)
 
