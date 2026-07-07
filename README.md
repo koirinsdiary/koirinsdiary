@@ -8,8 +8,7 @@
 # ${\textsf{\color{#ddffdb}KOIRIN   (˵ •̀ ᴗ - ˵ ) }}$
  ${\textsf{\color{#ebf6bb}check my carrd by clicking yotsuba stamp}}$
  
-  ${\textsf{\color{#ddffdb}
-"GIVE ME STARS TO MY REPOSITORIES AND BACK TO YOUR REPOSITORIES" BLOCKED }}$
+  ${\textsf{\color{#ddffdb}from 無限学都 : MUGEN GAKUTO }}$
 
 [![image_alt](https://github.com/koirinsdiary/koirinsdiary/blob/fbe2b98317474b2a229d8d4b477febee0dc7056b/tumblr_51330418529ecf394c1b43863ebd68e0_cee52d5a_100.png)](https://luckykoi.carrd.co/#)
 
