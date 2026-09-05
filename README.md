@@ -4,4 +4,4 @@
 </div>
 <div align="left">
   
-  ${\textsf{\color{#b31630}banner}}$ ${\textsf{\color{#bbd476}ㅤand}}$ ${\textsf{\color{#f9cb79}ㅤpfp}}$ ${\textsf{\color{#b31630}ㅤis}}$ ${\textsf{\color{#bbd476}ㅤmade}}$ ${\textsf{\color{#f9cb79}ㅤby}}$ ${\textsf{\color{#b31630}ㅤ@fluffettis}}$ ${\textsf{\color{#bbd476}ㅤin}}$ ${\textsf{\color{#f9cb79}ㅤtumblr}}$
+ㅤㅤ  ${\textsf{\color{#b31630}banner}}$ ${\textsf{\color{#bbd476}ㅤand}}$ ${\textsf{\color{#f9cb79}ㅤpfp}}$ ${\textsf{\color{#b31630}ㅤis}}$ ${\textsf{\color{#bbd476}ㅤmade}}$ ${\textsf{\color{#f9cb79}ㅤby}}$ ${\textsf{\color{#b31630}ㅤ@fluffettis}}$ ${\textsf{\color{#bbd476}ㅤin}}$ ${\textsf{\color{#f9cb79}ㅤtumblr}}$
