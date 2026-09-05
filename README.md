@@ -5,3 +5,9 @@
 <div align="left">
   
 ㅤㅤ  ${\textsf{\color{#b31630}banner}}$ ${\textsf{\color{#bbd476}ㅤand}}$ ${\textsf{\color{#f9cb79}ㅤpfp}}$ ${\textsf{\color{#b31630}ㅤis}}$ ${\textsf{\color{#bbd476}ㅤmade}}$ ${\textsf{\color{#f9cb79}ㅤby}}$ ${\textsf{\color{#b31630}ㅤ@fluffettis}}$ ${\textsf{\color{#bbd476}ㅤin}}$ ${\textsf{\color{#f9cb79}ㅤtumblr}}$
+
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnys4ilbdo7nw2mq3warsha734&cover_image=true&theme=spotify-embed&show_offline=true&background_color=c03343&interchange=false&profanity=true&hide_remaster=true&bar_color=f9e4c6&bar_color_cover=false&mode=dark">
+  </a>
+</p>
