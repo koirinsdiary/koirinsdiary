@@ -6,8 +6,12 @@
   
 ㅤㅤ  ${\textsf{\color{#b31630}banner}}$ ${\textsf{\color{#bbd476}ㅤand}}$ ${\textsf{\color{#f9cb79}ㅤpfp}}$ ${\textsf{\color{#b31630}ㅤis}}$ ${\textsf{\color{#bbd476}ㅤmade}}$ ${\textsf{\color{#f9cb79}ㅤby}}$ ${\textsf{\color{#b31630}ㅤ@fluffettis}}$ ${\textsf{\color{#bbd476}ㅤin}}$ ${\textsf{\color{#f9cb79}ㅤtumblr}}$
 
+
+
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnys4ilbdo7nw2mq3warsha734&cover_image=true&theme=spotify-embed&show_offline=true&background_color=c03343&interchange=false&profanity=true&hide_remaster=true&bar_color=f9e4c6&bar_color_cover=false&mode=dark">
-  </a>
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnys4ilbdo7nw2mq3warsha734&cover_image=true&theme=spotify-embed&show_offline=true&background_color=c03343&interchange=false&profanity=true&hide_remaster=true&bar_color=f9e4c6&bar_color_cover=false&mode=dark"><img width="300" height="300" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/koirinsdiary/koirinsdiary/blob/985e62682b14bd04fb7868e226b66996f0afaf0b/YOTSUBASOOOCUTE.png"(https://luckykoi.carrd.co/#) /> 
+
+<p align="right">
+${\textsf{\color{#b31630}ㅤhi}}$
+
