@@ -15,7 +15,8 @@
 
 
 
- </div>
+ <div>
 <div align="center">
  
 # ${\textsf{\color{#f9cb79}check links 4 info ☘︎ }}$
+${\textsf{\color{#b31630}ㅤEasthies}}$ ${\textsf{\color{#bbd476}ㅤtheme}}$ ${\textsf{\color{#f9cb79}ㅤcoming}}$ ${\textsf{\color{#b31630}ㅤsoon}}$ ${\textsf{\color{#bbd476}ㅤ𖹭}}$
